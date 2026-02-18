@@ -1,14 +1,5 @@
 <div align="center">
-
-```
-  ██████╗ ██╗   ██╗██╗██╗     ██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗
- ██╔════╝ ██║   ██║██║██║     ██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝
- ██║  ███╗██║   ██║██║██║     ███████║█████╗  ██████╔╝██╔████╔██║█████╗
- ██║   ██║██║   ██║██║██║     ██╔══██║██╔══╝  ██╔══██╗██║╚██╔╝██║██╔══╝
- ╚██████╔╝╚██████╔╝██║███████╗██║  ██║███████╗██║  ██║██║ ╚═╝ ██║███████╗
-  ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
-```
-
+## Guilherme de Oliveira Nascimento (@monkmoshpit)
 ### Full Stack Engineer · Laravel · React · PHP · TypeScript
 
 **São Bernardo do Campo, SP — Brasil**
@@ -22,9 +13,22 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um **Full Stack Engineer** com experiência prática em desenvolvimento end-to-end — do banco de dados à interface. Trabalho no dia a dia com **Laravel, React, PHP e TypeScript**, construindo sistemas escaláveis, integrações entre plataformas e automações inteligentes com IA.
+<table>
+<tr>
+<td width="50%" valign="middle">
 
-Tenho um olho apurado para produto e usabilidade, e não fico só no código — me envolvo com a arquitetura da solução, a experiência do usuário e a qualidade da entrega.
+Sou um **Full Stack Engineer** com experiência prática em desenvolvimento end-to-end. Trabalho no dia a dia com **Laravel, React, PHP e TypeScript**, construindo sistemas escaláveis, integrações entre plataformas e automações inteligentes com IA.
+
+Tenho um olho apurado para produto e usabilidade, e não fico só no código, sou cativado pela arquitetura da solução, a experiência do usuário e a qualidade da entrega.
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+![Pokemon]([https://imgur.com/a/I8R8AJh])
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,29 +66,6 @@ Tenho um olho apurado para produto e usabilidade, e não fico só no código —
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
----
-
-## 💼 Experiência
-
-**Make Acelerador de Vendas** — Full Stack Developer *(Jun 2024 – Presente)*
-
-- Refatoração e modernização de sistemas legados em PHP/JavaScript, migrando para arquitetura MVC com ganhos reais de performance e manutenibilidade
-- Modelagem e otimização de bancos de dados relacionais (PostgreSQL e MySQL) para suportar novos fluxos de negócio
-- Desenvolvimento de integrações complexas entre CRMs e plataformas de marketing, automatizando campanhas e fluxo de dados
-- Resolução de problemas de *recursive hell* em jQuery/JS funcional, refatorando controllers para respostas mais rápidas e tratadas
-- Construção de **agentes de IA e fluxos de automação** com integração ao WhatsApp e outros canais de comunicação
-
----
-
-## 🎓 Formação
-
-| Instituição | Curso | Período |
-|---|---|---|
-| UFABC | Bacharelado em Ciência e Tecnologia | 2024 – (em pausa) |
-| ETEC Lauro Gomes | Técnico em Informática para Internet | 2021 – 2023 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -92,13 +73,5 @@ Tenho um olho apurado para produto e usabilidade, e não fico só no código —
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monkmoshpit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monkmoshpit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
-<div align="center">
-
-*"Código bom é aquele que resolve o problema real — com clareza, performance e sem gambiarras."*
 
 </div>
