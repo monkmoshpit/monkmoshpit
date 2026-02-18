@@ -24,7 +24,7 @@ Tenho um olho apurado para produto e usabilidade, e não fico só no código, so
 </td>
 <td width="50%" align="center" valign="middle">
 
-![Pokemon]([https://imgur.com/a/I8R8AJh])
+![Pokemon]([https://i.imgur.com/wqDFLoo.gif])
 
 </td>
 </tr>
