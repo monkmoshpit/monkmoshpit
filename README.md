@@ -1,8 +1,10 @@
 <div align="center">
-## Guilherme de Oliveira Nascimento (@monkmoshpit)
-### Full Stack Engineer · Laravel · React · PHP · TypeScript
 
-**São Bernardo do Campo, SP — Brasil**
+# Guilherme de Oliveira Nascimento (@@monkmoshpit)
+
+### `**Full Stack Engineer**`
+
+São Bernardo do Campo, SP — Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-oliveira-nascimento-6611762aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.oliveiranascimento096@gmail.com)
@@ -11,15 +13,15 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
 
 <table>
 <tr>
 <td width="40%" valign="middle">
 
-Sou um **Full Stack Engineer** com experiência prática em desenvolvimento end-to-end. Trabalho no dia a dia com **Laravel, React, PHP e TypeScript**, construindo sistemas escaláveis, integrações entre plataformas e automações inteligentes com IA.
+I'm a **Full Stack Engineer** with hands-on experience in end-to-end development. I work daily with **Laravel, React, PHP and TypeScript**, building scalable systems, platform integrations, and AI-powered automations.
 
-Tenho um olho apurado para produto e usabilidade, e não fico só no código, sou cativado pela arquitetura da solução, a experiência do usuário e a qualidade da entrega.
+I have a sharp eye for product and usability — I'm not just a code writer, I care deeply about solution architecture, user experience, and delivery quality.
 
 </td>
 <td width="60%" align="center" valign="middle">
@@ -49,29 +51,19 @@ Tenho um olho apurado para produto e usabilidade, e não fico só no código, so
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Banco de Dados**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**DevOps & Ferramentas**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-**IA & Automação**
+**AI & Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monkmoshpit&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monkmoshpit&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
