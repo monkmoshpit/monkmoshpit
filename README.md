@@ -1,8 +1,8 @@
 <div align="center">
 
-# Guilherme de Oliveira Nascimento (@@monkmoshpit)
+## Guilherme de Oliveira Nascimento (@monkmoshpit)
 
-### `**Full Stack Engineer**`
+### `Full Stack Engineer`
 
 São Bernardo do Campo, SP — Brazil
 
