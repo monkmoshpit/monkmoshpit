@@ -24,7 +24,7 @@ I'm a **Full Stack Engineer** with hands-on experience in end-to-end development
 </td>
 <td width="30%" align="center" valign="middle">
 
-![Pokemon](https://i.imgur.com/mty0WQS.gif)
+![Pokemon](https://i.imgur.com/4LBS85s.gif)
 
 </td>
 </tr>
