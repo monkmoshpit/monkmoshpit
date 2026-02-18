@@ -15,16 +15,16 @@
 
 <table>
 <tr>
-<td width="50%" valign="middle">
+<td width="40%" valign="middle">
 
 Sou um **Full Stack Engineer** com experiência prática em desenvolvimento end-to-end. Trabalho no dia a dia com **Laravel, React, PHP e TypeScript**, construindo sistemas escaláveis, integrações entre plataformas e automações inteligentes com IA.
 
 Tenho um olho apurado para produto e usabilidade, e não fico só no código, sou cativado pela arquitetura da solução, a experiência do usuário e a qualidade da entrega.
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
-![Pokemon]([https://i.imgur.com/wqDFLoo.gif])
+![Pokemon](https://i.imgur.com/wqDFLoo.gif)
 
 </td>
 </tr>
@@ -69,9 +69,9 @@ Tenho um olho apurado para produto e usabilidade, e não fico só no código, so
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monkmoshpit&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monkmoshpit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monkmoshpit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monkmoshpit&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
