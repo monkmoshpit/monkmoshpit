@@ -17,16 +17,14 @@ São Bernardo do Campo, SP — Brazil
 
 <table>
 <tr>
-<td width="40%" valign="middle">
+<td width="70%" valign="middle">
 
-I'm a **Full Stack Engineer** with hands-on experience in end-to-end development. I work daily with **Laravel, React, PHP and TypeScript**, building scalable systems, platform integrations, and AI-powered automations.
-
-I have a sharp eye for product and usability — I'm not just a code writer, I care deeply about solution architecture, user experience, and delivery quality.
+I'm a **Full Stack Engineer** with hands-on experience in end-to-end development. I have a sharp eye for product and usability, not acting just like a code writer, I care deeply about solution architecture, user experience, and delivery quality.
 
 </td>
-<td width="60%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-![Pokemon](https://i.imgur.com/wqDFLoo.gif)
+![Pokemon](https://i.imgur.com/mty0WQS.gif)
 
 </td>
 </tr>
