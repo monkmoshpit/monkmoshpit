@@ -1,10 +1,8 @@
 <div align="center">
 
-## Guilherme de Oliveira Nascimento (@monkmoshpit)
-
-### `Full Stack Engineer`
-
-São Paulo — Brazil
+## Guilherme de Oliveira Nascimento
+### `Full Stack Engineer` · PHP · Laravel · React · TypeScript
+São Paulo, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-oliveira-nascimento-6611762aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.oliveiranascimento096@gmail.com)
@@ -17,12 +15,11 @@ São Paulo — Brazil
 
 <table>
 <tr>
-<td width="70%" valign="middle">
-
-I'm a **Full Stack Engineer** with hands-on experience in end-to-end development. I have a sharp eye for product and usability, not acting just like a code writer, I care deeply about solution architecture, user experience, and delivery quality.
-
+<td width="68%" valign="middle">
+I'm a Full Stack Engineer building production systems since 2024. My day-to-day is Laravel and React, but what actually drives me is solving problem behind the code.
+I've worked on modernizing legacy PHP codebases and ecosystems, designing relational database schemas, building async workflows with Laravel Queues, and shipping AI-powered automations using the Claude and OpenAI APIs.
 </td>
-<td width="30%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
 ![Pokemon](https://i.imgur.com/4LBS85s.gif)
 
@@ -41,6 +38,7 @@ I'm a **Full Stack Engineer** with hands-on experience in end-to-end development
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **Front-End**
 
@@ -55,13 +53,35 @@ I'm a **Full Stack Engineer** with hands-on experience in end-to-end development
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
+**Testing**
+
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-F97316?style=flat-square&logo=php&logoColor=white)
+
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **AI & Automation**
 
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkmoshpit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>São Bernardo do Campo, São Paulo, Brasil</sub>
+</div>
